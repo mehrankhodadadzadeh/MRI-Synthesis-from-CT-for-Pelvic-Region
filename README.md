@@ -17,7 +17,7 @@ Example CT-to-MRI synthesis:
 - Evaluation metrics (`metrics_summary.csv`)
 
 
-![Example MRI-to-CT synthesis](test.png)
+![Example MRI-to-CT synthesis](pelvis_github.png)
 
 ---
 
