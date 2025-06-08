@@ -14,7 +14,10 @@ Example CT-to-MRI synthesis:
 
 - Predicted MRI (`synth_mri_01_*.nii.gz`)  
 - Ground-truth MRI (`gt_mri_01_*.nii.gz`)  
-- Evaluation metrics (`metrics_summary.csv`)  
+- Evaluation metrics (`metrics_summary.csv`)
+
+
+![Example MRI-to-CT synthesis](test.png)
 
 ---
 
